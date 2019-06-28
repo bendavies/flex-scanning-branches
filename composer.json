@@ -7,6 +7,6 @@
     ],
     "require": {
         "bernard/bernard": "dev-1.0.0-alpha9-round-robin-fix as 1.0.0-alpha9",
-        "symfony/flex": "v1.2.7"
+        "symfony/flex": "v1.4.0"
     }
 }
